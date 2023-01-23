@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674059595327
+  login: 1674059587304
+money: '0'
+last-account-name: YeeishDeev951
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: -5.101415125939364
+  y: 72.0
+  z: 711.3000000119209
+  yaw: -1.0500001907348633
+  pitch: 13.05000114440918
+lastlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: -83.74042342297105
+  y: 67.0
+  z: 700.8419078042449
+  yaw: -26.416339874267578
+  pitch: 21.449993133544922

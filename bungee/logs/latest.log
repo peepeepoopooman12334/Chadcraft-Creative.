@@ -1,0 +1,106 @@
+[15:33:29] [main/INFO]: Using mbed TLS based native cipher.
+[15:33:29] [main/INFO]: Using zlib based native compressor.
+[15:33:29] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510
+[15:33:29] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[15:33:30] [main/INFO]: Epoll is working, utilising it!
+[15:33:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[15:33:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[15:33:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[15:33:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[15:33:30] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[15:33:30] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[15:33:31] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:31] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:31] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:31] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:31] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:31] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:31] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[15:33:37] [main/WARN] [EaglercraftXBungee]: Profile load timed out
+[15:33:37] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.4 by lax1dude
+[15:33:37] [main/WARN]: Forced host server pvp is not defined
+[15:33:37] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:37] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:37] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:37] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:37] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:37] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.19-R0.1-SNAPSHOT:13085b9:510 by WaterfallMC
+[15:33:38] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[15:33:38] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[15:33:38] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[15:33:40] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[15:33:41] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.4 by lax1dude
+[15:33:41] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[15:34:56] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /home/runner/Chadcraft-Creative/bungee/server-icon.png
+[15:35:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:45154]: Connected via websocket
+[15:35:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:45154]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:35:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:45154]: Logged in as 'Joker'
+[15:35:04] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:45154|Joker] -> UpstreamBridge has connected
+[15:35:06] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 328ms to process event PostLoginEvent(player=Joker)!
+[15:35:06] [Netty Worker IO Thread #0/WARN]: Event PostLoginEvent(player=Joker) took 468ms to process!
+[15:35:08] [Netty Worker IO Thread #0/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/172.31.128.1:45154|Joker] <-> InitialHandler) took 6,408ms to process!
+[15:35:08] [Netty Worker IO Thread #0/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/172.31.128.1:45154|Joker] <-> InitialHandler) took 6,425ms to process!
+[15:35:08] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:45154|Joker] -> UpstreamBridge has disconnected
+[15:35:09] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:45154] <-> ServerConnector [lobby] has connected
+[15:35:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38098]: Connected via websocket
+[15:35:16] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38098]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:35:17] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38098]: Logged in as 'Joker'
+[15:35:17] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38098|Joker] -> UpstreamBridge has connected
+[15:35:17] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:38098] <-> ServerConnector [lobby] has connected
+[15:35:21] [Netty Worker IO Thread #0/INFO]: [Joker] disconnected with: Kicked whilst connecting to lobby: The same username is already playing on the server!
+[15:35:21] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38098|Joker] -> UpstreamBridge has disconnected
+[15:35:21] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:38098] <-> ServerConnector [lobby] has disconnected
+[15:35:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:53034]: Connected via websocket
+[15:35:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:53034]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:35:30] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:53034]: Logged in as 'Joker'
+[15:35:30] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:53034|Joker] -> UpstreamBridge has connected
+[15:35:30] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:53034] <-> ServerConnector [lobby] has connected
+[15:35:31] [Netty Worker IO Thread #0/INFO]: [Joker] disconnected with: Kicked whilst connecting to lobby: The same username is already playing on the server!
+[15:35:31] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:53034|Joker] -> UpstreamBridge has disconnected
+[15:35:31] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:53034] <-> ServerConnector [lobby] has disconnected
+[15:35:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42728]: Connected via websocket
+[15:35:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42728]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:35:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:42728]: Logged in as 'Joker'
+[15:35:36] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42728|Joker] -> UpstreamBridge has connected
+[15:35:36] [Netty Worker IO Thread #1/INFO]: [Joker|/172.31.128.1:42728] <-> ServerConnector [lobby] has connected
+[15:35:36] [Netty Worker IO Thread #1/INFO]: [Joker] disconnected with: Kicked whilst connecting to lobby: The same username is already playing on the server!
+[15:35:36] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:42728|Joker] -> UpstreamBridge has disconnected
+[15:35:36] [Netty Worker IO Thread #1/INFO]: [Joker|/172.31.128.1:42728] <-> ServerConnector [lobby] has disconnected
+[15:35:45] [Netty Worker IO Thread #0/INFO]: [Joker] disconnected with: Proxy lost connection to server.
+[15:35:45] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:45154|Joker] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:35:48] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38194]: Connected via websocket
+[15:35:48] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38194]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:35:48] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:38194]: Logged in as 'Joker'
+[15:35:48] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38194|Joker] -> UpstreamBridge has connected
+[15:35:48] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:38194] <-> ServerConnector [lobby] has connected
+[15:36:08] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 414ms to process event PluginMessageEvent(super=TargetedEvent(sender=Joker, receiver=net.md_5.bungee.ServerConnection@2715e2c6), cancelled=true, tag=EAG|Skins-1.8)!
+[15:36:08] [Netty Worker IO Thread #0/WARN]: Event PluginMessageEvent(super=TargetedEvent(sender=Joker, receiver=net.md_5.bungee.ServerConnection@2715e2c6), cancelled=true, tag=EAG|Skins-1.8) took 414ms to process!
+[15:36:11] [Netty Worker IO Thread #0/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 272ms to process event PluginMessageEvent(super=TargetedEvent(sender=Joker, receiver=net.md_5.bungee.ServerConnection@2715e2c6), cancelled=true, tag=EAG|Skins-1.8)!
+[15:36:11] [Netty Worker IO Thread #0/WARN]: Event PluginMessageEvent(super=TargetedEvent(sender=Joker, receiver=net.md_5.bungee.ServerConnection@2715e2c6), cancelled=true, tag=EAG|Skins-1.8) took 973ms to process!
+[15:36:51] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:47980]: Connected via websocket
+[15:36:51] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:47980]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:36:52] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:47980]: Logged in as 'Spammyton'
+[15:36:52] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:47980|Spammyton] -> UpstreamBridge has connected
+[15:36:52] [Netty Worker IO Thread #1/INFO]: [Spammyton|/172.31.128.1:47980] <-> ServerConnector [lobby] has connected
+[15:37:08] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:47980|Spammyton] -> UpstreamBridge has disconnected
+[15:37:08] [Netty Worker IO Thread #1/INFO]: [Spammyton] disconnected with: Proxy lost connection to server.
+[15:37:08] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:47980|Spammyton] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:40:53] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38194|Joker] -> UpstreamBridge has disconnected
+[15:40:53] [Netty Worker IO Thread #0/INFO]: [Joker] disconnected with: Proxy lost connection to server.
+[15:40:53] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:38194|Joker] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:53:56] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:51868]: Connected via websocket
+[15:53:56] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:51868]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:53:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/172.31.128.1:51868]: Logged in as 'Joker'
+[15:53:57] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:51868|Joker] -> UpstreamBridge has connected
+[15:53:57] [Netty Worker IO Thread #0/INFO]: [Joker|/172.31.128.1:51868] <-> ServerConnector [lobby] has connected
+[15:54:27] [Netty Worker IO Thread #0/INFO]: [Joker] disconnected with: Login timeout exceeded, you have been kicked from the server, please try again!
+[15:54:27] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:51868|Joker] -> UpstreamBridge has disconnected
+[15:54:27] [Netty Worker IO Thread #0/INFO]: [/172.31.128.1:51868|Joker] <-> DownstreamBridge <-> [lobby] has disconnected
+[15:55:37] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43384]: Connected via websocket
+[15:55:37] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43384]: Origin header is https://chadcraft-creative.bobfartco.repl.co
+[15:55:38] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/172.31.128.1:43384]: Logged in as 'Joker'
+[15:55:38] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43384|Joker] -> UpstreamBridge has connected
+[15:55:38] [Netty Worker IO Thread #1/INFO]: [Joker|/172.31.128.1:43384] <-> ServerConnector [lobby] has connected
+[16:06:54] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43384|Joker] -> UpstreamBridge has disconnected
+[16:06:54] [Netty Worker IO Thread #1/INFO]: [Joker] disconnected with: Proxy lost connection to server.
+[16:06:54] [Netty Worker IO Thread #1/INFO]: [/172.31.128.1:43384|Joker] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674139209153
+  login: 1674138856793
+money: '0'
+last-account-name: walterinnocent
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: -3.4875000119209294
+  y: 72.0
+  z: 714.6999999880791
+  yaw: -77.40000915527344
+  pitch: 17.700000762939453

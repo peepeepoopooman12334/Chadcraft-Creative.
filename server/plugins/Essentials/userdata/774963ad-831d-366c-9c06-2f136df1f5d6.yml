@@ -1,0 +1,97 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672760656688
+  login: 1672760638983
+money: '0'
+last-account-name: ViggYeeg139
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 181.02501950776417
+  y: 74.0
+  z: 261.2673297791458
+  yaw: 82.35000610351562
+  pitch: 59.250003814697266
+mail:
+- legacy: false
+  read: false
+  message: its just WITHIN 50 blocks of the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984682221
+  expire: 0
+- legacy: false
+  read: false
+  message: just to clarify the elden ring is not exactly 50 blocks from the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984655113
+  expire: 0
+- legacy: false
+  read: false
+  message: in a place were it can be seen WITHOUT breaking blocks
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982652338
+  expire: 0
+- legacy: false
+  read: false
+  message: you are also not allowed to break blocks of others builds, it will be hidden...
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982619225
+  expire: 0
+- legacy: false
+  read: false
+  message: with that said, good luck tarnished!
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982500927
+  expire: 0
+- legacy: false
+  read: false
+  message: you will get one hint, it is somewere within 50 blocks of the MAIN ROAD
+    not a side one
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982475334
+  expire: 0
+- legacy: false
+  read: false
+  message: if you find the eldenring you will be rewarded with the title ELDEN LORD.
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982416547
+  expire: 0
+- legacy: false
+  read: false
+  message: ATTENTION EVERYONE, the eldenring has been hidden somewere on the server
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982330035
+  expire: 0
+- legacy: false
+  read: false
+  message: stinky
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673621996107
+  expire: 0

@@ -1,0 +1,74 @@
+groups:
+  default:
+    options:
+      default: 'true'
+      rank: '1'
+    permissions:
+    - essentials.nick.<color>
+    - essentials.pay
+    - essentials.mail
+    - iDisguise.mob.*
+    - essentials.mail.*
+    - essentials.balance
+    - essentials.itemdb
+    - essentials.msg
+    - essentials.tpadeny
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.warp.*
+    - essentials.hat
+    - worldedit.*
+    - essentials.gamemode
+    - essentials.gamemode.all
+    - essentials.tpaaccept
+    - essentials.tpa.*
+    - modifyworld.*
+  Cool:
+    options:
+      prefix: (COOL)
+      rank: '2'
+    permissions:
+    - bukkit.command.kick
+    - iDisguise.mob.*
+    - essentials.mail.*
+    - essentials.mail
+    - essentials.balance
+    - essentials.itemdb
+    - essentials.msg
+    - essentials.tpadeny
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.warp.*
+    - essentials.hat
+    - worldedit.*
+    - essentials.gamemode
+    - essentials.gamemode.all
+    - essentials.tpaaccept
+    - essentials.tpa.*
+    - modifyworld.*
+schema-version: 1
+users:
+  4462ed9e-e071-3c29-979e-835956e35dc6:
+    permissions:
+    - '*'
+    group:
+    - Cool
+    options:
+      name: Curiosity
+  8b6cf64b-5e71-3bfa-8242-ede60548bcd7:
+    options:
+      name: Spammyton
+    group:
+    - default
+  b5c66319-8aa0-3511-a1ba-44a409c40fbc:
+    group:
+    - default
+    - Cool
+    options:
+      name: Crow
+    permissions:
+    - bukkit.command.kick

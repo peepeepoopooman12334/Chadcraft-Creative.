@@ -1,0 +1,136 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: true
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674157648898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674480058090
+  login: 1674481980464
+money: '999831.00'
+last-account-name: Curiosity
+lastlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 49.95457559505671
+  y: 79.0
+  z: 597.7536028052083
+  yaw: 346.391845703125
+  pitch: 9.299989700317383
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 20.544013205109838
+  y: 71.0
+  z: 787.3207416822155
+  yaw: 351.3241882324219
+  pitch: -14.250009536743164
+homes:
+  back:
+    world: cb47067b-6901-47fb-aa63-cf79032a4db9
+    world-name: world
+    x: 242.4118136888216
+    y: 45.73809182132238
+    z: 350.8618710636003
+    yaw: 68.30389404296875
+    pitch: 30.29999351501465
+  bunk:
+    world: cb47067b-6901-47fb-aa63-cf79032a4db9
+    world-name: world
+    x: 19.207963426739454
+    y: 64.20000004768366
+    z: 436.30000001192093
+    yaw: 295.3916015625
+    pitch: 27.599994659423828
+  'yes':
+    world: cb47067b-6901-47fb-aa63-cf79032a4db9
+    world-name: world
+    x: -65.21358321301368
+    y: 67.99897819901975
+    z: 702.5053895957998
+    yaw: 353.68359375
+    pitch: 20.54999351501465
+powertools:
+  blaze_rod:
+  - fireball
+  arrow:
+  - fireball
+confirm-pay: false
+mail:
+- legacy: false
+  read: false
+  message: its just WITHIN 50 blocks of the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984682124
+  expire: 0
+- legacy: false
+  read: false
+  message: just to clarify the elden ring is not exactly 50 blocks from the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984654492
+  expire: 0
+- legacy: false
+  read: true
+  message: in a place were it can be seen WITHOUT breaking blocks
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982652311
+  expire: 0
+- legacy: false
+  read: true
+  message: you are also not allowed to break blocks of others builds, it will be hidden...
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982619209
+  expire: 0
+- legacy: false
+  read: true
+  message: with that said, good luck tarnished!
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982500921
+  expire: 0
+- legacy: false
+  read: true
+  message: you will get one hint, it is somewere within 50 blocks of the MAIN ROAD
+    not a side one
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982475261
+  expire: 0
+- legacy: false
+  read: true
+  message: if you find the eldenring you will be rewarded with the title ELDEN LORD.
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982416545
+  expire: 0
+- legacy: false
+  read: true
+  message: ATTENTION EVERYONE, the eldenring has been hidden somewere on the server
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982329845
+  expire: 0
+- legacy: false
+  read: true
+  message: stinky
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673621995031
+  expire: 0

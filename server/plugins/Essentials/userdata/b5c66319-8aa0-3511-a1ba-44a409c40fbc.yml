@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674478654820
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674344946393
+  login: 1674478318651
+money: '199903'
+last-account-name: Crow
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 1.6999999880790666
+  y: 91.0
+  z: 18.69999998807907
+  yaw: 354.3419189453125
+  pitch: 5.3999924659729
+lastlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 12.5925678858733
+  y: 70.0
+  z: 761.0490253511581
+  yaw: 19.392059326171875
+  pitch: 44.399993896484375
+nickname: §6Crow

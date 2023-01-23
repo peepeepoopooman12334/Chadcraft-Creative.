@@ -1,0 +1,65 @@
+# Enable this if you want the plugin to check for an update when the server starts.
+# If an update is available a message will be printed out into console,
+# and every player who has the 'iDisguise.update' permission will receive a message.
+check-for-updates: true
+
+# When this option is set to false, disguised players cannot be damaged by mobs (e.g. zombies).
+entity-damage-while-disguised: true
+
+# Enable or disable ghost disguises.
+# You should disable this if you use any scoreboard plugin(s).
+ghost-disguises: true
+
+# When this option is enabled, disguised players' names don't show up in the player list.
+# If a player is disguised as another player, the name of the other player is shown instead.
+modify-player-list: true
+
+# When this option is set to true, disguised players cannot be targeted by mobs (e.g. skeletons).
+no-target-while-disguised: false
+
+# When this option is set to true, disguised players need the 'iDisguise.undisguise' permission,
+# otherwise they cannot undisguise themselves anymore.
+permission-for-undisguise: false
+
+# You can put the player names, you don't want your players to disguise as, here.
+# You can give admins the 'iDisguise.player.prohibited' permission so they can bypass this prohibition.
+prohibited-player-disguises: {"player1","player2"}
+
+# You can put the worlds, you don't want your players to disguise in, here.
+# You can give admins the 'iDisguise.everywhere' permission so they can bypass this prohibition.
+prohibited-worlds: {"prohibited1","prohibited2"}
+
+# When this option is enabled, disguised players' death and kill messages are replaced,
+# so nobody recognizes they are actual players.
+# ATTENTION: This might interfere with other plugins!
+replace-death-messages: true
+
+# When this option is enabled, disguised players' join and leave messages are replaced,
+# so nobody recognizes they are actual players.
+# ATTENTION: This might interfere with other plugins!
+replace-join-leave-messages: true
+
+# When this option is set to true, the plugin will replace disguised players' sound effects with realistic hurt/death/etc. sounds.
+# This feature does not work completely in Minecraft 1.5, 1.6 and 1.9.
+replace-sounds: true
+
+# When this option is set to true, all the disguises are saved when the server shuts down,
+# so all the players are still disguised after a restart.
+save-disguises: true
+
+# When this option is set to true, all disguised players will have their name above their head.
+# This only works for mob disguises.
+show-name-while-disguised: false
+
+# When this option is set to true, a disguised player will be undisguised as soon as he is hit by another player.
+# ATTENTION: The player will not get notified about this!
+undisguise-on-hit: false
+
+# When this option is set to true, a disguised player will be undisguised as soon as he attacks another player.
+# ATTENTION: The player will not get notified about this!
+undisguise-on-hit-other: false
+
+# When this option is set to true, a disguised player will be undisguised as soon as he is hit by a projectile (e.g. arrows).
+# ATTENTION: The player will not get notified about this!
+undisguise-on-projectile-hit: false
+

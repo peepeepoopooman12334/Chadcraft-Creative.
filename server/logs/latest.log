@@ -1,0 +1,324 @@
+[15:33:39] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:33:39] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:33:39] [Server thread/INFO]: Loading properties
+[15:33:39] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:42] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[15:33:44] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[15:33:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:33:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:33:44] [Server thread/INFO]: Debug logging is disabled
+[15:33:45] [Server thread/INFO]: Data value allowed items: 
+[15:33:45] [Server thread/INFO]: Generating keypair
+[15:33:47] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[15:33:48] [Server thread/INFO]: Using default channel type
+[15:33:50] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:33:52] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23
+[15:33:52] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:33:52] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:33:52] [Server thread/INFO]: [AutoSave] Loading AutoSave v1.0
+[15:33:52] [Server thread/INFO]: [iDisguise] Loading iDisguise v5.1.1
+[15:33:52] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.7
+[15:33:52] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.3.1-b1702
+[15:33:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:33:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:33:52] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[15:33:52] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[15:33:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:33:52] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:33:53] [Server thread/INFO]: Preparing level "world"
+[15:33:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:33:53] [Server thread/INFO]: Anti X-Ray: true
+[15:33:53] [Server thread/INFO]: 	Engine Mode: 1
+[15:33:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:33:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:33:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:33:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:33:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:33:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:33:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:33:53] [Server thread/INFO]: Mob Spawn Range: 4
+[15:33:53] [Server thread/INFO]: Random Lighting Updates: false
+[15:33:53] [Server thread/INFO]: Structure Info Saving: true
+[15:33:53] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:33:53] [Server thread/INFO]: Max Entity Collisions: 8
+[15:33:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:33:53] [Server thread/INFO]: Max TNT Explosions: 100
+[15:33:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:33:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:33:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:33:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:33:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:33:54] [Server thread/INFO]: View Distance: 4
+[15:33:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:33:54] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:33:54] [Server thread/INFO]: Clear tick list: false
+[15:33:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:33:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:33:54] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[15:33:54] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[15:33:54] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[15:33:54] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[15:33:54] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[15:33:54] [Server thread/INFO]: Water over lava flow speed: 5
+[15:33:54] [Server thread/INFO]: Fix TNT cannons: false
+[15:33:54] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[15:33:54] [Server thread/INFO]: Keep spawn chunk loaded: true
+[15:33:54] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[15:33:54] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[15:33:54] [Server thread/INFO]: World async lighting: false
+[15:33:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:33:56] [Server thread/INFO]: Anti X-Ray: true
+[15:33:56] [Server thread/INFO]: 	Engine Mode: 1
+[15:33:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:33:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:33:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:33:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:33:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:33:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:33:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:33:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:33:56] [Server thread/INFO]: Random Lighting Updates: false
+[15:33:56] [Server thread/INFO]: Structure Info Saving: true
+[15:33:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:33:56] [Server thread/INFO]: Max Entity Collisions: 8
+[15:33:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:33:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:33:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:33:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:33:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:33:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:33:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:33:56] [Server thread/INFO]: View Distance: 4
+[15:33:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:33:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:33:56] [Server thread/INFO]: Clear tick list: false
+[15:33:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:33:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:33:56] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[15:33:56] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[15:33:56] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[15:33:56] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[15:33:56] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[15:33:56] [Server thread/INFO]: Water over lava flow speed: 5
+[15:33:56] [Server thread/INFO]: Fix TNT cannons: false
+[15:33:56] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[15:33:56] [Server thread/INFO]: Keep spawn chunk loaded: true
+[15:33:56] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[15:33:56] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[15:33:56] [Server thread/INFO]: World async lighting: false
+[15:33:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:33:57] [Server thread/INFO]: Anti X-Ray: true
+[15:33:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:33:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:33:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:33:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:33:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:33:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:33:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:33:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:33:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:33:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:33:57] [Server thread/INFO]: Structure Info Saving: true
+[15:33:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:33:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:33:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:33:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:33:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:33:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:33:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:33:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:33:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:33:57] [Server thread/INFO]: View Distance: 4
+[15:33:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:33:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:33:57] [Server thread/INFO]: Clear tick list: false
+[15:33:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:33:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:33:57] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[15:33:57] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[15:33:57] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[15:33:57] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[15:33:57] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[15:33:57] [Server thread/INFO]: Water over lava flow speed: 5
+[15:33:57] [Server thread/INFO]: Fix TNT cannons: false
+[15:33:57] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[15:33:57] [Server thread/INFO]: Keep spawn chunk loaded: true
+[15:33:57] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[15:33:57] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[15:33:57] [Server thread/INFO]: World async lighting: false
+[15:33:58] [Server thread/INFO]: Preparing start region for level 0 (Seed: 48029993882865074)
+[15:34:02] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:05] [Server thread/INFO]: Preparing spawn area: 1%
+[15:34:06] [Server thread/INFO]: Preparing spawn area: 4%
+[15:34:07] [Server thread/INFO]: Preparing spawn area: 5%
+[15:34:08] [Server thread/INFO]: Preparing spawn area: 8%
+[15:34:09] [Server thread/INFO]: Preparing spawn area: 12%
+[15:34:10] [Server thread/INFO]: Preparing spawn area: 19%
+[15:34:11] [Server thread/INFO]: Preparing spawn area: 30%
+[15:34:12] [Server thread/INFO]: Preparing spawn area: 39%
+[15:34:13] [Server thread/INFO]: Preparing spawn area: 46%
+[15:34:14] [Server thread/INFO]: Preparing spawn area: 52%
+[15:34:15] [Server thread/INFO]: Preparing spawn area: 60%
+[15:34:17] [Server thread/INFO]: Preparing spawn area: 65%
+[15:34:18] [Server thread/INFO]: Preparing spawn area: 74%
+[15:34:19] [Server thread/INFO]: Preparing spawn area: 84%
+[15:34:20] [Server thread/INFO]: Preparing spawn area: 90%
+[15:34:21] [Server thread/INFO]: Preparing spawn area: 98%
+[15:34:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: 48029993882865074)
+[15:34:22] [Server thread/INFO]: Preparing spawn area: 6%
+[15:34:23] [Server thread/INFO]: Preparing spawn area: 30%
+[15:34:24] [Server thread/INFO]: Preparing spawn area: 43%
+[15:34:25] [Server thread/INFO]: Preparing spawn area: 60%
+[15:34:26] [Server thread/INFO]: Preparing spawn area: 74%
+[15:34:28] [Server thread/INFO]: Preparing spawn area: 84%
+[15:34:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: 48029993882865074)
+[15:34:29] [Server thread/INFO]: Preparing spawn area: 48%
+[15:34:30] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23
+[15:34:30] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:34:31] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:34:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:34:38] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:34:39] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[15:34:39] [Server thread/INFO]: [AutoSave] Enabling AutoSave v1.0
+[15:34:39] [Server thread/INFO]: [AutoSave] Enable
+[15:34:39] [Server thread/INFO]: [iDisguise] Enabling iDisguise v5.1.1
+[15:34:41] [Thread-5/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[15:34:41] [Server thread/INFO]: [iDisguise] iDisguise 5.1.1 enabled!
+[15:34:42] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.7
+[15:34:42] [Server thread/INFO]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[15:34:46] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[15:34:46] [Server thread/INFO]: No kits found to migrate.
+[15:34:48] [Server thread/INFO]: Loaded 853 items from items.csv.
+[15:34:48] [Server thread/INFO]: Using locale en_US
+[15:34:48] [Server thread/INFO]: ServerListPingEvent: Spigot iterator API
+[15:34:49] [Server thread/INFO]: Starting Metrics. Opt-out using the global bStats config.
+[15:34:49] [Server thread/WARN]: Detected supported permissions plugin PermissionsEx without Vault installed.
+[15:34:49] [Server thread/WARN]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[15:34:49] [Server thread/INFO]: Using superperms-based permissions.
+[15:34:49] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.3.1-b1702
+[15:34:50] [Server thread/INFO]: [AuthMe] SQLite driver loaded
+[15:34:51] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[15:34:51] [Server thread/INFO]: [AuthMe] Hooked into PermissionsEx!
+[15:34:51] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[15:34:52] [Thread-7/WARN]: [AuthMe] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[15:34:52] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/home/runner/Chadcraft-Creative/server/plugins/Essentials/spawn.yml'
+[15:34:53] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[15:34:54] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[15:34:54] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[15:34:54] [Server thread/INFO]: [AuthMe] AuthMe 5.3.1 build n.1702 correctly enabled!
+[15:34:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:34:56] [Server thread/INFO]: Done (64.309s)! For help, type "help" or "?"
+[15:34:56] [Server thread/INFO]: Timings Reset
+[15:34:56] [Server thread/INFO]: ------------------------
+[15:34:56] [Server thread/INFO]: Server is saved ...
+[15:34:56] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[15:34:57] [Server thread/INFO]: Successfully saved.
+[15:34:57] [Server thread/INFO]: ------------------------
+[15:34:57] [Craft Scheduler Thread - 0/INFO]: §6Fetching version information...
+[15:35:12] [Thread-9/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:35:17] [Server thread/INFO]: Joker[/172.31.128.1:33974] logged in with entity id 358 at ([world]61.799500294557106, 78.0, 608.8756932975848)
+[15:35:17] [Thread-10/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:35:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4adbe230[id=e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0,name=Joker,properties={textures=[com.mojang.authlib.properties.Property@39a6fbe3], isEaglerPlayer=[com.mojang.authlib.properties.Property@3d99680f]},legacy=false] (/172.31.128.1:54828): §4The same username is already playing on the server!
+[15:35:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4adbe230[id=e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0,name=Joker,properties={textures=[com.mojang.authlib.properties.Property@39a6fbe3], isEaglerPlayer=[com.mojang.authlib.properties.Property@3d99680f]},legacy=false] (/172.31.128.1:54828) lost connection: §4The same username is already playing on the server!
+[15:35:31] [Thread-11/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:35:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@37c5d47f[id=e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0,name=Joker,properties={textures=[com.mojang.authlib.properties.Property@751c5e1a], isEaglerPlayer=[com.mojang.authlib.properties.Property@7123c461]},legacy=false] (/172.31.128.1:55150): §4The same username is already playing on the server!
+[15:35:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@37c5d47f[id=e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0,name=Joker,properties={textures=[com.mojang.authlib.properties.Property@751c5e1a], isEaglerPlayer=[com.mojang.authlib.properties.Property@7123c461]},legacy=false] (/172.31.128.1:55150) lost connection: §4The same username is already playing on the server!
+[15:35:31] [Craft Scheduler Thread - 0/INFO]: [iDisguise] An update for iDisguise is available: iDisguise 5.8.2
+[15:35:36] [Thread-12/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:35:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@54a85c27[id=e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0,name=Joker,properties={textures=[com.mojang.authlib.properties.Property@2458059], isEaglerPlayer=[com.mojang.authlib.properties.Property@4efdb70b]},legacy=false] (/172.31.128.1:54976): §4The same username is already playing on the server!
+[15:35:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@54a85c27[id=e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0,name=Joker,properties={textures=[com.mojang.authlib.properties.Property@2458059], isEaglerPlayer=[com.mojang.authlib.properties.Property@4efdb70b]},legacy=false] (/172.31.128.1:54976) lost connection: §4The same username is already playing on the server!
+[15:35:45] [Server thread/INFO]: Joker lost connection: Timed out
+[15:35:46] [Server thread/INFO]: Joker left the game.
+[15:35:48] [Thread-13/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:35:49] [Server thread/INFO]: Joker[/172.31.128.1:58276] logged in with entity id 368 at ([world]61.799500294557106, 78.0, 608.8756932975848)
+[15:36:10] [Craft Scheduler Thread - 0/INFO]: [AuthMe] The user Joker has 40 accounts:
+[15:36:10] [Craft Scheduler Thread - 0/INFO]: [AuthMe] §7curiosity, itzbionicz, §aJoker§7, temmie_grad, spammyton, crow, marcel, pumpkineater1234, bradg, walter, sussy_barrney, marcel_, wall, dpm_dj, awakeflood, poppyseeds, creeper, temmie, sussy_tyler, yeegyeeish808, hee, yeeishdeev951, penis_licker, kkk, jonb, itwasjohnbunban, johngaveittome, itdidnotgreif, bruh, pigman_jeff596, pigmanisnotme, bonelesspizza, pig_jeff, freewalter, walterinnocent, rain, thunderstruck342, walterhartwell, unbanwalter, p2nc.
+[15:36:10] [Craft Scheduler Thread - 0/INFO]: [AuthMe] Joker logged in!
+[15:36:19] [Async Chat Thread - #0/INFO]: <The_Rizzler> e
+[15:36:52] [Thread-14/INFO]: UUID of player Spammyton is 8b6cf64b-5e71-3bfa-8242-ede60548bcd7
+[15:36:54] [Server thread/INFO]: Spammyton[/172.31.128.1:60568] logged in with entity id 378 at ([world]13.546563156342286, 70.5, 763.8988448220523)
+[15:37:09] [Server thread/INFO]: Spammyton lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[15:37:10] [Server thread/INFO]: Spammyton left the game.
+[15:40:08] [Server thread/INFO]: ------------------------
+[15:40:08] [Server thread/INFO]: Server is saved ...
+[15:40:09] [Server thread/INFO]: Successfully saved.
+[15:40:09] [Server thread/INFO]: ------------------------
+[15:40:53] [Server thread/INFO]: Joker lost connection: Disconnected
+[15:40:53] [Server thread/INFO]: Joker left the game.
+[15:45:08] [Server thread/INFO]: ------------------------
+[15:45:08] [Server thread/INFO]: Server is saved ...
+[15:45:08] [Server thread/INFO]: Successfully saved.
+[15:45:08] [Server thread/INFO]: ------------------------
+[15:50:08] [Server thread/INFO]: ------------------------
+[15:50:08] [Server thread/INFO]: Server is saved ...
+[15:50:08] [Server thread/INFO]: Successfully saved.
+[15:50:08] [Server thread/INFO]: ------------------------
+[15:53:57] [Thread-16/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:53:57] [Server thread/INFO]: Joker[/172.31.128.1:51816] logged in with entity id 380 at ([world]39.51497491131937, 78.0, 611.7115999809539)
+[15:54:27] [Server thread/INFO]: Joker lost connection: §4Login timeout exceeded, you have been kicked from the server, please try again!
+[15:54:27] [Server thread/INFO]: Joker left the game.
+[15:54:27] [Server thread/WARN]: handleDisconnection() called twice
+[15:55:08] [Server thread/INFO]: ------------------------
+[15:55:08] [Server thread/INFO]: Server is saved ...
+[15:55:08] [Server thread/INFO]: Successfully saved.
+[15:55:08] [Server thread/INFO]: ------------------------
+[15:55:38] [Thread-17/INFO]: UUID of player Joker is e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0
+[15:55:38] [Server thread/INFO]: Joker[/172.31.128.1:58802] logged in with entity id 388 at ([world]39.51497491131937, 78.0, 611.7115999809539)
+[15:55:46] [Craft Scheduler Thread - 13/INFO]: [AuthMe] The user Joker has 40 accounts:
+[15:55:46] [Craft Scheduler Thread - 13/INFO]: [AuthMe] §7curiosity, itzbionicz, §aJoker§7, temmie_grad, spammyton, crow, marcel, pumpkineater1234, bradg, walter, sussy_barrney, marcel_, wall, dpm_dj, awakeflood, poppyseeds, creeper, temmie, sussy_tyler, yeegyeeish808, hee, yeeishdeev951, penis_licker, kkk, jonb, itwasjohnbunban, johngaveittome, itdidnotgreif, bruh, pigman_jeff596, pigmanisnotme, bonelesspizza, pig_jeff, freewalter, walterinnocent, rain, thunderstruck342, walterhartwell, unbanwalter, p2nc.
+[15:55:46] [Craft Scheduler Thread - 13/INFO]: [AuthMe] Joker logged in!
+[16:00:09] [Server thread/INFO]: ------------------------
+[16:00:09] [Server thread/INFO]: Server is saved ...
+[16:00:09] [Server thread/INFO]: Successfully saved.
+[16:00:09] [Server thread/INFO]: ------------------------
+[16:05:09] [Server thread/INFO]: ------------------------
+[16:05:09] [Server thread/INFO]: Server is saved ...
+[16:05:10] [Server thread/INFO]: Successfully saved.
+[16:05:10] [Server thread/INFO]: ------------------------
+[16:06:33] [Server thread/INFO]: Joker issued server command: //set clay
+[16:06:45] [Server thread/INFO]: Joker issued server command: //undo
+[16:06:51] [Async Chat Thread - #1/INFO]: <The_Rizzler> e
+[16:06:54] [Server thread/INFO]: Joker lost connection: Disconnected
+[16:06:54] [Server thread/INFO]: Joker left the game.
+[16:10:09] [Server thread/INFO]: ------------------------
+[16:10:09] [Server thread/INFO]: Server is saved ...
+[16:10:10] [Server thread/INFO]: Successfully saved.
+[16:10:10] [Server thread/INFO]: ------------------------
+[16:15:09] [Server thread/INFO]: ------------------------
+[16:15:09] [Server thread/INFO]: Server is saved ...
+[16:15:10] [Server thread/INFO]: Successfully saved.
+[16:15:10] [Server thread/INFO]: ------------------------
+[16:20:10] [Server thread/INFO]: ------------------------
+[16:20:10] [Server thread/INFO]: Server is saved ...
+[16:20:10] [Server thread/INFO]: Successfully saved.
+[16:20:10] [Server thread/INFO]: ------------------------
+[16:25:10] [Server thread/INFO]: ------------------------
+[16:25:10] [Server thread/INFO]: Server is saved ...
+[16:25:10] [Server thread/INFO]: Successfully saved.
+[16:25:10] [Server thread/INFO]: ------------------------
+[16:30:10] [Server thread/INFO]: ------------------------
+[16:30:10] [Server thread/INFO]: Server is saved ...
+[16:30:10] [Server thread/INFO]: Successfully saved.
+[16:30:10] [Server thread/INFO]: ------------------------

@@ -1,0 +1,105 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674151943918
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674152370663
+  login: 1674151896715
+money: '0'
+last-account-name: awakeflood
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 21.84596114785319
+  y: 78.0
+  z: 534.3027700236927
+  yaw: 147.1923828125
+  pitch: 8.249992370605469
+lastlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 162.16837302101752
+  y: 95.98935627265008
+  z: 320.10349466769605
+  yaw: 120.00009155273438
+  pitch: 51.45000457763672
+mail:
+- legacy: false
+  read: false
+  message: its just WITHIN 50 blocks of the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984681865
+  expire: 0
+- legacy: false
+  read: false
+  message: just to clarify the elden ring is not exactly 50 blocks from the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984650829
+  expire: 0
+- legacy: false
+  read: false
+  message: in a place were it can be seen WITHOUT breaking blocks
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982652306
+  expire: 0
+- legacy: false
+  read: false
+  message: you are also not allowed to break blocks of others builds, it will be hidden...
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982619098
+  expire: 0
+- legacy: false
+  read: false
+  message: with that said, good luck tarnished!
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982500856
+  expire: 0
+- legacy: false
+  read: false
+  message: you will get one hint, it is somewere within 50 blocks of the MAIN ROAD
+    not a side one
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982475242
+  expire: 0
+- legacy: false
+  read: false
+  message: if you find the eldenring you will be rewarded with the title ELDEN LORD.
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982416161
+  expire: 0
+- legacy: false
+  read: false
+  message: ATTENTION EVERYONE, the eldenring has been hidden somewere on the server
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982328570
+  expire: 0
+- legacy: false
+  read: false
+  message: stinky
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673621985983
+  expire: 0

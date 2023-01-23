@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1673639306131
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674069286334
+  login: 1674068906868
+money: '0'
+last-account-name: sussy_barrney
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 16.508803896426212
+  y: 81.0086394532166
+  z: 548.813420146258
+  yaw: -261.01123046875
+  pitch: 33.15000915527344
+lastlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: -62.71533568812424
+  y: 100.16505623806901
+  z: 263.07285091659645
+  yaw: 329.3771667480469
+  pitch: 34.649993896484375
+mail:
+- legacy: false
+  read: false
+  message: its just WITHIN 50 blocks of the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984682221
+  expire: 0
+- legacy: false
+  read: false
+  message: just to clarify the elden ring is not exactly 50 blocks from the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984654795
+  expire: 0

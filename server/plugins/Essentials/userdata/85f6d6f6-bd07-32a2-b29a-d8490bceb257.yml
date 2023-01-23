@@ -1,0 +1,90 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.128.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673980077895
+  login: 1673980073887
+money: '0'
+last-account-name: YeeishYeeish368
+logoutlocation:
+  world: cb47067b-6901-47fb-aa63-cf79032a4db9
+  world-name: world
+  x: 177.5
+  y: 71.0
+  z: 247.5
+  yaw: 0.0
+  pitch: 0.0
+mail:
+- legacy: false
+  read: false
+  message: its just WITHIN 50 blocks of the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984681864
+  expire: 0
+- legacy: false
+  read: false
+  message: just to clarify the elden ring is not exactly 50 blocks from the road
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673984650589
+  expire: 0
+- legacy: false
+  read: false
+  message: in a place were it can be seen WITHOUT breaking blocks
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982652305
+  expire: 0
+- legacy: false
+  read: false
+  message: you are also not allowed to break blocks of others builds, it will be hidden...
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982619089
+  expire: 0
+- legacy: false
+  read: false
+  message: with that said, good luck tarnished!
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982500842
+  expire: 0
+- legacy: false
+  read: false
+  message: you will get one hint, it is somewere within 50 blocks of the MAIN ROAD
+    not a side one
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982475242
+  expire: 0
+- legacy: false
+  read: false
+  message: if you find the eldenring you will be rewarded with the title ELDEN LORD.
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982416140
+  expire: 0
+- legacy: false
+  read: false
+  message: ATTENTION EVERYONE, the eldenring has been hidden somewere on the server
+    (cont.)
+  sender-name: Temmie_grad
+  sender-uuid: fe010f62-a891-3285-b764-19dcfe2fdd0d
+  timestamp: 1673982328280
+  expire: 0
